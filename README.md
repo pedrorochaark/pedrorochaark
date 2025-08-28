@@ -21,13 +21,16 @@
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 
 
-
-<!-- Streak (dias seguidos de contribuição) -->
-![Streak de Contribuições](https://nirzak-streak-stats.vercel.app/?user=PepoLab&theme=dark&hide_border=false)<br/>
-
-<!-- Linguagens mais usadas -->
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PepoLab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
- 📞 CONTATO
+📞 CONTATO
   
    [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedromartrocha/)
+
+
+
+<!-- Streak (dias seguidos de contribuição) -->
+![Streak de Contribuições](https://nirzak-streak-stats.vercel.app/?user=pedrorochaark&theme=dark&hide_border=false)<br/>
+
+<!-- Linguagens mais usadas -->
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorochaark&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+ 
