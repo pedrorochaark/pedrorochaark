@@ -1,3 +1,11 @@
+# 👋 Olá! Eu sou o Pedro Rocha
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+📊 Estagiário de Dados na ArkValue  
+🔎 Apaixonado por dados, BI, Python e SQL  
+🚀 Buscando crescer na área de Data & Analytics
+
+
 💼 TECNOLOGIAS
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -11,6 +19,14 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+
+
+
+<!-- Streak (dias seguidos de contribuição) -->
+![Streak de Contribuições](https://nirzak-streak-stats.vercel.app/?user=PepoLab&theme=dark&hide_border=false)<br/>
+
+<!-- Linguagens mais usadas -->
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PepoLab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
  📞 CONTATO
   
